@@ -6,14 +6,14 @@ This is a beginner-friendly Library Management System developed in Python. The p
 
 # Features
 
-➕ Add a new book
-📖 View all books
-🔍 Search books by title or author
-📤 Issue a book
-📥 Return a book
-❌ Exit the program
+-➕ Add a new book
+-📖 View all books
+-🔍 Search books by title or author
+-📤 Issue a book
+-📥 Return a book
+-❌ Exit the program
 
-# Technologies Used
+# Technologies Use
 
 - Python 3
 - Lists
