@@ -1,4 +1,4 @@
-# 📚 Simple Library Management System
+#  Simple Library Management System
 
 # Overview
 
@@ -21,18 +21,18 @@ This is a beginner-friendly Library Management System developed in Python. The p
 - Functions
 
 # Project Structure
-
+```
 simple_library_system.py
-
+```
 # How to Run
 
 1. Install Python 3.
 2. Download or clone this project.
 3. Open a terminal in the project folder.
 4. Run the program using:
-
+```
 python simple_library_system.py
-
+```
 # Menu Options
 
 ===== LIBRARY MANAGEMENT SYSTEM =====
